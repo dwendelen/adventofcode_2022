@@ -6,6 +6,7 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+regex = "1"
 
 [[bin]]
 name = "day01_a"
@@ -30,3 +31,11 @@ path = "src/day03/day03_a.rs"
 [[bin]]
 name = "day03_b"
 path = "src/day03/day03_b.rs"
+
+[[bin]]
+name = "day04_a"
+path = "src/day04/day04_a.rs"
+
+[[bin]]
+name = "day04_b"
+path = "src/day04/day04_b.rs"
