@@ -87,3 +87,123 @@ path = "src/day10/day10_a.rs"
 [[bin]]
 name = "day10_b"
 path = "src/day10/day10_b.rs"
+
+#[[bin]]
+#name = "day11_a"
+#path = "src/day11/day11_a.rs"
+#
+#[[bin]]
+#name = "day11_b"
+#path = "src/day11/day11_b.rs"
+#
+#[[bin]]
+#name = "day12_a"
+#path = "src/day12/day12_a.rs"
+#
+#[[bin]]
+#name = "day12_b"
+#path = "src/day12/day12_b.rs"
+#
+#[[bin]]
+#name = "day13_a"
+#path = "src/day13/day13_a.rs"
+#
+#[[bin]]
+#name = "day13_b"
+#path = "src/day13/day13_b.rs"
+#
+#[[bin]]
+#name = "day14_a"
+#path = "src/day14/day14_a.rs"
+#
+#[[bin]]
+#name = "day14_b"
+#path = "src/day14/day14_b.rs"
+#
+#[[bin]]
+#name = "day15_a"
+#path = "src/day15/day15_a.rs"
+#
+#[[bin]]
+#name = "day15_b"
+#path = "src/day15/day15_b.rs"
+#
+#[[bin]]
+#name = "day16_a"
+#path = "src/day16/day16_a.rs"
+#
+#[[bin]]
+#name = "day16_b"
+#path = "src/day16/day16_b.rs"
+#
+#[[bin]]
+#name = "day17_a"
+#path = "src/day17/day17_a.rs"
+#
+#[[bin]]
+#name = "day17_b"
+#path = "src/day17/day17_b.rs"
+#
+#[[bin]]
+#name = "day18_a"
+#path = "src/day18/day18_a.rs"
+#
+#[[bin]]
+#name = "day18_b"
+#path = "src/day18/day18_b.rs"
+#
+#[[bin]]
+#name = "day19_a"
+#path = "src/day19/day19_a.rs"
+#
+#[[bin]]
+#name = "day19_b"
+#path = "src/day19/day19_b.rs"
+#
+#[[bin]]
+#name = "day20_a"
+#path = "src/day20/day20_a.rs"
+#
+#[[bin]]
+#name = "day20_b"
+#path = "src/day20/day20_b.rs"
+#
+#[[bin]]
+#name = "day21_a"
+#path = "src/day21/day21_a.rs"
+#
+#[[bin]]
+#name = "day21_b"
+#path = "src/day21/day21_b.rs"
+#
+#[[bin]]
+#name = "day22_a"
+#path = "src/day22/day22_a.rs"
+#
+#[[bin]]
+#name = "day22_b"
+#path = "src/day22/day22_b.rs"
+#
+#[[bin]]
+#name = "day23_a"
+#path = "src/day23/day23_a.rs"
+#
+#[[bin]]
+#name = "day23_b"
+#path = "src/day23/day23_b.rs"
+#
+#[[bin]]
+#name = "day24_a"
+#path = "src/day24/day24_a.rs"
+#
+#[[bin]]
+#name = "day24_b"
+#path = "src/day24/day24_b.rs"
+#
+#[[bin]]
+#name = "day25_a"
+#path = "src/day25/day25_a.rs"
+#
+#[[bin]]
+#name = "day25_b"
+#path = "src/day25/day25_b.rs"
