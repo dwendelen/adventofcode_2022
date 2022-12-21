@@ -160,14 +160,14 @@ path = "src/day19/day19_a.rs"
 name = "day19_b"
 path = "src/day19/day19_b.rs"
 
-#[[bin]]
-#name = "day20_a"
-#path = "src/day20/day20_a.rs"
-#
-#[[bin]]
-#name = "day20_b"
-#path = "src/day20/day20_b.rs"
-#
+[[bin]]
+name = "day20_a"
+path = "src/day20/day20_a.rs"
+
+[[bin]]
+name = "day20_b"
+path = "src/day20/day20_b.rs"
+
 #[[bin]]
 #name = "day21_a"
 #path = "src/day21/day21_a.rs"
