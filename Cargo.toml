@@ -184,14 +184,14 @@ path = "src/day22/day22_a.rs"
 name = "day22_b"
 path = "src/day22/day22_b.rs"
 
-#[[bin]]
-#name = "day23_a"
-#path = "src/day23/day23_a.rs"
-#
-#[[bin]]
-#name = "day23_b"
-#path = "src/day23/day23_b.rs"
-#
+[[bin]]
+name = "day23_a"
+path = "src/day23/day23_a.rs"
+
+[[bin]]
+name = "day23_b"
+path = "src/day23/day23_b.rs"
+
 #[[bin]]
 #name = "day24_a"
 #path = "src/day24/day24_a.rs"
